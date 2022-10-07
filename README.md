@@ -10,7 +10,7 @@
 #### More details -> https://urbansounddataset.weebly.com/urbansound8k.html
 
 
-#### Prepared by -> Generation X-Y team
+#### Prepared by -> Generation Y-Z team
 
 
 #### Contributors -> Murad Muzaffarov, Ensar Efendi CELEPCI, Mehmet Can Özen, Mehmet Sarıoğlu, Nazlıcan Alaöz
