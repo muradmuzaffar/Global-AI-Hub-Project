@@ -13,6 +13,6 @@
 #### Prepared by -> Generation Y-Z team
 
 
-#### Contributors -> Murad Muzaffarov, Ensar Efendi CELEPCI, Mehmet Can Özen, Mehmet Sarıoğlu, Nazlıcan Alaöz
+#### Contributors -> Murad Muzaffarov, Ensar Efendi CELEPCI, Mehmet Can Özen, Mehmet Sarıoğlu, Nazlıcan Alagöz
 
 
